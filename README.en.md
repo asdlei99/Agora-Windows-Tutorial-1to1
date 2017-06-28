@@ -17,7 +17,7 @@ A full-fledged demo can be found here: [OpenVideoCall-Windows](https://github.co
 Agora Video SDK supports iOS / Android / Windows / macOS etc. You can find demos of these platform here:
 
 - [Agora-Android-Tutorial-1to1](https://github.com/AgoraIO/Agora-Android-Tutorial-1to1)
-- [Agora-Windows-Tutorial-1to1](https://github.com/AgoraIO/Agora-Windows-Tutorial-1to1)
+- [Agora-iOS-Tutorial-1to1](https://github.com/AgoraIO/Agora-iOS-Tutorial-1to1)
 - [Agora-macOS-Tutorial-Swift-1to1](https://github.com/AgoraIO/Agora-macOS-Tutorial-Swift-1to1)
 
 ## Running the App

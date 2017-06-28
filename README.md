@@ -12,12 +12,12 @@
 
 本开源项目使用 **C++** 语言
 
-你也可以在这里查看进阶版的示例项目：[OpenVideoCall-iOS](https://github.com/AgoraIO/OpenVideoCall-Windows)
+你也可以在这里查看进阶版的示例项目：[OpenVideoCall-Windows](https://github.com/AgoraIO/OpenVideoCall-Windows)
 
 Agora视频SDK支持 iOS / Android / Windows / macOS 等多个平台，你可以查看对应各平台的示例项目：
 
 - [Agora-Android-Tutorial-1to1](https://github.com/AgoraIO/Agora-Android-Tutorial-1to1)
-- [Agora-Windows-Tutorial-1to1](https://github.com/AgoraIO/Agora-Windows-Tutorial-1to1)
+- [Agora-iOS-Tutorial-1to1](https://github.com/AgoraIO/Agora-iOS-Tutorial-1to1)
 - [Agora-macOS-Tutorial-Swift-1to1](https://github.com/AgoraIO/Agora-macOS-Tutorial-Swift-1to1)
 
 ## 运行示例程序
@@ -41,7 +41,7 @@ Agora视频SDK支持 iOS / Android / Windows / macOS 等多个平台，你可以
 - 如果在集成中遇到问题, 你可以到 [开发者社区](https://dev.agora.io/cn/) 提问
 - 如果有售前咨询问题, 可以拨打 400 632 6626，或加入官方Q群 12742516 提问
 - 如果需要售后技术支持, 你可以在 [Agora Dashboard](https://dashboard.agora.io) 提交工单
-- 如果发现了示例代码的bug, 欢迎提交 [issue](https://github.com/AgoraIO/Agora-Windows-Tutorial/issues)
+- 如果发现了示例代码的bug, 欢迎提交 [issue](https://github.com/AgoraIO/Agora-Windows-Tutorial-1to1/issues)
 
 ## 代码许可
 
