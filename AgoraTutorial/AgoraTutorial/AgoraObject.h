@@ -8,7 +8,7 @@
 using namespace agora::rtc;
 
 
-#define APP_ID _T("74a0b7bb5d3e47c7abca0533d17b0afa")
+#define APP_ID _T("")
 
 class CAgoraObject
 {
