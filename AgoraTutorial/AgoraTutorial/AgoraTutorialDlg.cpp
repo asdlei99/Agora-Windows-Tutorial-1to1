@@ -211,7 +211,7 @@ void CAgoraTutorialDlg::OnBnClickedBtndisvid()
 {
 	// TODO:  在此添加控件通知处理程序代码
 	BOOL bStatValue = !m_lpAgoraObject->IsVideoEnabled();
-	m_lpAgoraObject->MuteLocalAudio(bStatValue);
+	m_lpAgoraObject->MuteLocalVideo(bStatValue);
 }
 
 LRESULT CAgoraTutorialDlg::OnFirstRemoteVideoDecoded(WPARAM wParam, LPARAM lParam)
