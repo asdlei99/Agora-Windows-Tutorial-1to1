@@ -27,7 +27,7 @@ First, create a developer account at [Agora.io](https://dashboard.agora.io/signi
 #define APP_ID _T("YOUR OWN app id")
 ```
 
-Next, download the **Agora Video SDK** from [Agora.io SDK](https://www.agora.io/en/blog/download/). Unzip the downloaded SDK package and copy the "sdk" folder to the project folder.
+Next, download the **Agora Video SDK** from [Agora.io SDK](https://www.agora.io/en/blog/download/). Unzip the downloaded SDK package and copy the "sdk" folder to the project folder(the old one may be over written).
 
 Finally, Open AgoraTutorial.sln, build the solution and run.
 
