@@ -2,7 +2,7 @@
 
 *Read this in other languages: [English](README.md)*
 
-这个开源示例项目演示了如何快速集成Agora视频SDK，实现1对1视频通话。
+这个开源示例项目演示了如何快速集成 Agora 视频 SDK，实现 1 对 1 视频通话。
 
 在这个示例项目中包含了以下功能：
 
@@ -21,19 +21,19 @@ Agora视频SDK支持 iOS / Android / Windows / macOS 等多个平台，你可以
 - [Agora-macOS-Tutorial-Swift-1to1](https://github.com/AgoraIO/Agora-macOS-Tutorial-Swift-1to1)
 
 ## 运行示例程序
-首先在 [Agora.io 注册](https://dashboard.agora.io/cn/signup/) 注册账号，并创建自己的测试项目，获取到 AppID。将代码中APP_ID宏内容定义为 AppID
+首先在 [Agora.io 注册](https://dashboard.agora.io/cn/signup/) 注册账号，并创建自己的测试项目，获取到 AppID。将代码中 APP_ID 宏内容定义为 AppID
 
 ```
-#define APP_ID _T("Your App ID")
+#define APP_ID _T("")
 ```
 
-然后在 [Agora.io SDK](https://www.agora.io/cn/blog/download/) 下载 **视频通话 + 直播 SDK**，解压后将其中的 **sdk** 文件夹复制到本项目目录下（并覆盖原有旧目录）。
+然后在 [Agora.io SDK](https://www.agora.io/cn/download/) 下载 **视频通话 + 直播 SDK**，解压后将其中的 **sdk** 文件夹复制到本项目目录下（并覆盖原有旧目录）。
 
-最后使用 vc2013 打开 AgoraTutorial.sln，编译整个解决方案即可运行。
+最后使用 Visual Studio 2013 打开 AgoraTutorial.sln，编译整个解决方案即可运行。
 
 ## 运行环境
-* VC2013或更高版本
-* 两台 windows PC
+* Visual Studio 2013 或更高版本
+* 两台 Windows PC
 
 ## 联系我们
 
