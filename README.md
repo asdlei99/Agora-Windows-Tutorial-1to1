@@ -1,8 +1,8 @@
-# Agora windows Tutorial - 1to1
+# Agora Windows Tutorial - 1to1
 
 *其他语言版本： [简体中文](README.zh.md)*
 
-The Agora windows Tutorial 1to1 Sample App is an open-source demo that will help you get video chat integrated directly into your windows applications using the Agora Video SDK.
+The Agora Windows Tutorial 1to1 Sample App is an open-source demo that will help you get video chat integrated directly into your Windows applications using the Agora Video SDK.
 
 With this sample app, you can:
 
@@ -24,16 +24,16 @@ Agora Video SDK supports iOS / Android / Windows / macOS etc. You can find demos
 First, create a developer account at [Agora.io](https://dashboard.agora.io/signin/), and obtain an App ID. define the APP_ID with your App ID.
 
 ```
-#define APP_ID _T("YOUR OWN app id")
+#define APP_ID _T("")
 ```
 
-Next, download the **Agora Video SDK** from [Agora.io SDK](https://www.agora.io/en/blog/download/). Unzip the downloaded SDK package and copy the "sdk" folder to the project folder(the old one may be over written).
+Next, download the **Agora Video SDK** from [Agora.io SDK](https://www.agora.io/en/download/). Unzip the downloaded SDK package and copy the "sdk" folder to the project folder(the old one may be over written).
 
-Finally, Open AgoraTutorial.sln, build the solution and run.
+Finally, open AgoraTutorial.sln, build the solution and run.
 
 ## Developer Environment Requirements
-* VC2013 or higher
-* win7 or higher
+* Visual Studio 2013 or higher
+* Windows 7 or higher
 
 ## Connect Us
 
