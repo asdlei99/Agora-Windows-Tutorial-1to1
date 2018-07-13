@@ -1,4 +1,4 @@
-# Agora Windows Tutorial - 1to1
+# Agora 1-to-1 Tutorial for Windows
 
 This tutorial enables you to quickly get started developing a Windows app with video chat. With this sample app you can:
 
